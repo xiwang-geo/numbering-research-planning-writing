@@ -37,7 +37,7 @@
 通过 Skills CLI（需要 Node.js）：
 
 ```sh
-npx skills add xiwang-geo/Numbering-Research-Planning-Writing --skill numbering-research-planning-writing --global --yes
+npx skills add xiwang-geo/numbering-research-planning-writing --skill numbering-research-planning-writing --global --yes
 ```
 
 也可以把 `skills/numbering-research-planning-writing/` 复制到对应 agent 的技能目录：

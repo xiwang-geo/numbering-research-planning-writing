@@ -40,7 +40,7 @@ checks, so the format stops depending on whoever wrote the round.
 Using the Skills CLI (requires Node.js):
 
 ```sh
-npx skills add xiwang-geo/Numbering-Research-Planning-Writing --skill numbering-research-planning-writing --global --yes
+npx skills add xiwang-geo/numbering-research-planning-writing --skill numbering-research-planning-writing --global --yes
 ```
 
 Or copy `skills/numbering-research-planning-writing/` to the agent's skills
